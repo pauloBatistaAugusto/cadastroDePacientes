@@ -1,0 +1,33 @@
+#corouselcotacoes{
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+}
+.trcotacoes{
+    border-style: dashed;
+    border: 0.5px rgb(155, 134, 134);
+    color:white;
+    background-color: black;
+}
+.tablecotacoes{
+    border-bottom-color: black;
+    width: 100%;
+}
+a{
+    text-align: center;
+    font-size: 0.8em;
+    font-style: Arial, Helvetica, sans-serif;
+    color: white;
+    padding-left:10%;
+}
+.positivo{
+    text-align: center;
+    font-size: 0.9em;
+    color: rgb(35, 194, 29);
+    font-weight: bold;
+}
+.negativo{
+    text-align: center;
+    font-size: 0.9em;
+    color: rgb(223, 15, 15);
+    font-weight: bold;
+}
